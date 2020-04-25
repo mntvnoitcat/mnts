@@ -2,7 +2,7 @@ faselhd.co/#@#Star X#@#2#@#5#@#0#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#0#@##@##@##
 vidshare.tv/#@#Sol#@#1#@#4#@#1#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vidshare.") && url.contains("/hls/")#@#1#@#1#@#
 ok.ru/#@#Golden Rock#@#1#@#4#@#2#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".mycdn.me/video.m3u8?")#@#1#@#1#@#
 vidoba.net/#@#Black Tiger#@#2#@#3#@#3#@#0#@#1#@#100#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".vidoba.net/hls/")#@#1#@#1#@#
-uqload.com/#@#Orato#@#3#@#3#@#4#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#1#@#1#@#
+uqload.com/#@#Orato#@#1#@#3#@#4#@#0#@#1#@#100#@#5#@##@#1#@#0#@#1#@#1#@##@##@##@##@#1#@#1#@#
 vidoza.#@#La Luna#@#1#@#4#@#5#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".vidoza.") && url.contains("/v.mp4")#@#1#@#0#@#
 uptostream.#@#Podkon#@#1#@#3#@#6#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".uptostream.") && url.contains("/video.mp4")#@#1#@#1#@#
 vidfast.co/#@#Light N#@#1#@#4#@#7#@#0#@#2#@#0#@#0#@#javascript:jwplayer().play();#@#1#@#1#@#1#@#0#@##@##@##@#url.contains(".vidfast.co/hls/")#@#1#@#1#@#
