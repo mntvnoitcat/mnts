@@ -23,3 +23,4 @@ fembed.com#@#Gontex#@#3#@#4#@#21#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##
 upvid.#@#Telmax#@#1#@#3#@#22#@#0#@#1#@#100#@#20#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".upvid.") && url.contains("/v.mp4")#@#1#@#1#@#
 easyload.#@#Holmar#@#1#@#3#@#23#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".eload") && url.contains(".m3u8")#@#1#@#1#@#
 upstream.#@#Nelaf#@#1#@#2#@#24#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".upstream.") && url.contains("/v.mp4")#@#1#@#1#@#
+mycima.#@#Negato#@#0#@#5#@#25#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#
