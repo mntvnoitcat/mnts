@@ -4,7 +4,7 @@ faselhd.co/#@#Star X#@#2#@#5#@#2#@#0#@#1#@#100#@#90#@##@#1#@#0#@#1#@#0#@##@##@##
 gateaflam.#@#Fondrox#@#1#@#4#@#3#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("drivecdn.") && url.contains("/content.php?id=")##url.contains("/redirector?token=")##url.contains("mstreamcdn.") && url.contains(".mp4")##url.contains("samaup.") && url.contains("/video.mp4")#@#1#@#1#@#
 watch4unow.#@#Taylor#@#3#@#4#@#4#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@##@#1#@#1#@#
 dardarkom.#@#Kasper#@#3#@#5#@#5#@#0#@#0#@#0#@#0#@##@#0#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@##@#1#@#1#@#
-vidshare.tv/#@#Sol#@#1#@#4#@#6#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vidshare.") && url.contains("/hls/")#@#1#@#1#@#
+vidshare.tv/#@#Sol#@#1#@#4#@#6#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vidshar.") && url.contains("/hls/")##url.contains(".vidshare.") && url.contains("/hls/")#@#1#@#1#@#
 ok.ru/#@#Golden Rock#@#1#@#4#@#7#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".mycdn.me/video.m3u8?")#@#1#@#1#@#
 vidoba.net/#@#Black Tiger#@#1#@#3#@#8#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".vidoba.net/hls/")#@#1#@#1#@#
 uqload.com/#@#Orato#@#3#@#3#@#9#@#0#@#1#@#100#@#5#@##@#1#@#0#@#1#@#1#@##@##@##@##@#1#@#1#@#
