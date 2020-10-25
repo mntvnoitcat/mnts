@@ -33,4 +33,9 @@ hdup.#@#Fergo#@#1#@#3#@#31#@#0#@#1#@#30#@#100#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.
 youdbox.#@#Hitox#@#1#@#3#@#32#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("youbox.") && url.contains("/video.mp4")#@#1#@#1#@#
 streamwire.#@#Dolex#@#3#@#3#@#33#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#
 openload.#@#x2#@#0#@#1#@#34#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#
-playtube.#@#Giro#@#1#@#4#@#35#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#
+playtube.#@#Giro#@#1#@#4#@#35#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#
+vidlox.#@#Morex#@#1#@#3#@#36#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#
+vidlo.#@#Foxet#@#1#@#4#@#37#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#
+watchvideo.#@#Rexat#@#1#@#3#@#38#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#
+moshahda.#@#Kota#@#1#@#3#@#39#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@#https://lodynet.co#@#url.contains("/master.m3u8")#@#1#@#1#@#
+yourupload.#@#Jorex#@#3#@#2#@#40#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#
