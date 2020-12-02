@@ -40,3 +40,11 @@ z#-#المنار#-#z#-##-#https://manar.live/iptv/tracks-v1a1/mono.m3u8#-##3#6##
 13#-#فلسطين#-#13#-##-#http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8?airmaxtv.m3u8#-##3##-#0#-#0
 14#-#مساواة#-#14#-##-#http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8?airmaxtv.m3u8#-##6##-#0#-#0
 15#-#نابلس#-#15#-##-#http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8#-##6##-#0#-#0
+16#-#الإمارات#-#16#-##-#https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8?airmaxtv.m3u8#-##3#6##-#0#-#0
+17#-#الشرقية من كلباء#-#17#-##-#https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8?airmaxtv.m3u8#-##-#0#-#0
+18#-#دبي دراما#-#18#-##-#https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8?airmaxtv.m3u8#-##3##-#0#-#0
+19#-#أبو ظبي#-#19#-##-#https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?airmaxtv.m3u8#-##-#0#-#0
+1a#-#الشارقة#-#1a#-##-#https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?airmaxtv.m3u8#-##-#0#-#0
+1b#-#الوسطى#-#1b#-##-#https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8?airmaxtv.m3u8#-##-#0#-#0
+1c#-#Yas#-#1c#-##-#https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?airmaxtv.m3u8?adtv#-##-#0#-#0
+1d#-#مكة#-#1d#-##-#http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8?airmaxtv.m3u8#-##8##-#0#-#0
