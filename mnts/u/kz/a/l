@@ -24,7 +24,7 @@ m#-#راديو روتانا#-#m#-##-#http://188.247.86.67:8002/3#-##5##-#0#-#0
 n#-#روتانا كوميدي#-#n#-##-#https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8?airmaxtv.m3u8#-##3#4##-#0#-#0
 o#-#روتانا دراما#-#o#-##-#https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8?airmaxtv.m3u8#-##3##-#0#-#0
 p#-#روتانا LBC#-#p#-##-#https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8?airmaxtv.m3u8#-##3##-#0#-#0
-q#-#سوريا +#-#q#-##-#https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?airmaxtv.m3u8#-##3#6##-#0#-#0
+q#-#سوريا +#-#q#-##-#https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?airmaxtv.m3u8#-##3#6##-#1#-#0
 r#-#لنا#-#r#-##-#http://digitalxpress.gcdn.co/live1/lanatv/index.m3u8#-##3##-#0#-#0
 s#-#أهل القرآن#-#s#-##-#https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8?airmaxtv.m3u8#-##8##-#0#-#0
 t#-#LBN Lebanon#-#t#-##-#https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8#-##3#6##-#0#-#0
@@ -65,3 +65,7 @@ z#-#المنار#-#z#-##-#https://manar.live/iptv/tracks-v1a1/mono.m3u8#-##3#6##
 1s#-#beIN Sports 15#-#1s#-#بين سبورت 15#-#http://rv.therevenge.co:80/0555141902/3893970296/78603 http://rv.therevenge.co:80/0555141902/3893970296/78566#-##2##-#0#-#0
 1t#-#beIN Sports 16#-#1t#-#بين سبورت 16#-#http://rv.therevenge.co:80/0555141902/3893970296/78602 http://rv.therevenge.co:80/0555141902/3893970296/78565#-##2##-#0#-#0
 1u#-#Nat Geo AD#-#1u#-#ناشونال جيوغرافيك ابو ظبي#-#http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8#-##7##-#0#-#0
+1x#-#OSN ياهلا#-#1x#-#او اس ان#-#http://streamer1.furrera.ps:80/OSNYaHala/tracks-v1a1/mono.m3u8?token=test#-##3##-#0#-#0
+1w#-#OSN ياهلا الأولى#-#1w#-#او اس ان#-#http://streamer1.furrera.ps:80/OSNYahalaOula/tracks-v1a1/mono.m3u8?token=test#-##3##-#0#-#0
+1v#-#OSN ياهلا سينما#-#1v#-#او اس ان#-#http://streamer1.furrera.ps:80/OSNYHCinema/tracks-v1a1/mono.m3u8?token=test#-##4##-#0#-#0
+1y#-#OSN Movies#-#1y#-#او اس ان افلام#-#http://streamer1.furrera.ps:80/OSNMovies/tracks-v1a1/mono.m3u8?token=test#-##4##-#0#-#0
