@@ -27,23 +27,23 @@ fembed.com#@#Gontex#@#2#@#4#@#25#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##
 upvid.#@#Telmax#@#12#@#3#@#26#@#0#@#1#@#100#@#20#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".upvid.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
 easyload.#@#Holmar#@#12#@#3#@#27#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".eload") && url.contains(".m3u8")#@#1#@#1#@#0#@#
 upstream.#@#Nelaf#@#12#@#2#@#28#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".upstream.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
-mycima.#@#Negato#@#1#@#5#@#29#@#0#@#0#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@##@#https://mycima.video#@##@#0#@#0#@#0#@#
-vidbem.#@#Sapo#@#12#@#3#@#30#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("vidbem.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
-mystream.#@#Fuego#@#0#@#3#@#31#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@##@#1#@#1#@#0#@#
-vidia.tv#@#x1#@#0#@#1#@#32#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
-hdup.#@#Fergo#@#12#@#3#@#33#@#0#@#1#@#100#@#30#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("hdup.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
-youdbox.#@#Hitox#@#12#@#3#@#34#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("youbox.") && url.contains("/video.mp4")#@#1#@#1#@#0#@#
-streamwire.#@#Dolex#@#2#@#3#@#35#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#0#@#
-openload.#@#x2#@#0#@#1#@#36#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
-playtube.#@#Giro#@#12#@#4#@#37#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
-vidlox.#@#Morex#@#12#@#3#@#38#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#1#@#
-vidlo.#@#Foxet#@#12#@#4#@#39#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#1#@#
-watchvideo.#@#Rexat#@#12#@#3#@#40#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
-moshahda.#@#Kota#@#12#@#3#@#41#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@#https://lodynet.co#@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
-yourupload.#@#Jorex#@#2#@#2#@#42#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#0#@#
-vev.io#@#x3#@#0#@#1#@#43#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
-vidup.io#@#x4#@#0#@#1#@#44#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
-popads.net#@#x5#@#0#@#1#@#45#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
-playnow.to#@#x6#@#0#@#1#@#46#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
-streamtape.#@#Lonex#@#12#@#3#@#47#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("mp4?stream=1")#@#1#@#1#@#0#@#
-.livekoora.#@#Live Football#@#2#@#4#@#48#@#0#@#0#@#0#@#0#@##@#1#@#1#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36#@##@#url.contains("/live-dash/") || url.contains(".m3u8")#@#0#@#0#@#1#@#
+mycima.video/run/#@#Texom#@#0#@#1#@#29#@#1#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+vidbem.#@#Sapo#@#12#@#3#@#31#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("vidbem.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+mystream.#@#Fuego#@#0#@#3#@#32#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@##@#1#@#1#@#0#@#
+vidia.tv#@#x1#@#0#@#1#@#33#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+hdup.#@#Fergo#@#12#@#3#@#34#@#0#@#1#@#100#@#30#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("hdup.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+youdbox.#@#Hitox#@#12#@#3#@#35#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("youbox.") && url.contains("/video.mp4")#@#1#@#1#@#0#@#
+streamwire.#@#Dolex#@#2#@#3#@#36#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#0#@#
+openload.#@#x2#@#0#@#1#@#37#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+playtube.#@#Giro#@#12#@#4#@#38#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
+vidlox.#@#Morex#@#12#@#3#@#39#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#1#@#
+vidlo.#@#Foxet#@#12#@#4#@#40#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#1#@#
+watchvideo.#@#Rexat#@#12#@#3#@#41#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
+moshahda.#@#Kota#@#12#@#3#@#42#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@#https://lodynet.co#@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
+yourupload.#@#Jorex#@#2#@#2#@#43#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#0#@#
+vev.io#@#x3#@#0#@#1#@#44#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+vidup.io#@#x4#@#0#@#1#@#45#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+popads.net#@#x5#@#0#@#1#@#46#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+playnow.to#@#x6#@#0#@#1#@#47#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+streamtape.#@#Lonex#@#12#@#3#@#48#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("mp4?stream=1")#@#1#@#1#@#0#@#
+.livekoora.#@#Live Football#@#2#@#4#@#49#@#0#@#0#@#0#@#0#@##@#1#@#1#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36#@##@#url.contains("/live-dash/") || url.contains(".m3u8")#@#0#@#0#@#1#@#
